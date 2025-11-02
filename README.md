@@ -23,8 +23,3 @@
 <!-- ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=html,tex&layout=compact&theme=dark) -->
 
 Life is tough, please be tougher...
-
-<img
-  src="https://github.com/NIL-zhuang/NIL-zhuang/blob/master/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
