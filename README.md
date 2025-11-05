@@ -4,9 +4,9 @@
 
 ![profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NIL-zhuang&theme=2077)
 
-- 🔭 I’m currently working on **NLP**, **LLM** and **MLLM** in [Nanjing University](https://www.nju.edu.cn/)
-- 📍 Now located in Nanjing
-- 📫 How to reach me: zhuang-ziyuan@outlook.com
+- 🔭 I’m currently working on **MLLM**, **Agent** and **RL** in [Meituan](https://www.meituan.com/)
+- 📍 Now located in Shanghai
+- 📫 How to reach me: zhuang-ziyuan@outlook.com / zhuangziyuan@meituan.com
 - 💬 Ask me about everything interesting
 - 😄 You can see me at https://nil-zhuang.github.io/
 
@@ -21,5 +21,3 @@
 </table>
 
 <!-- ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=NIL-zhuang&hide=html,tex&layout=compact&theme=dark) -->
-
-Life is tough, please be tougher...
